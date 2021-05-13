@@ -52,7 +52,7 @@ function randomSelect() {
 
       highlightTag(randomTag);
     }, 100);
-  }, 3000);
+  }, times * 100);
 }
 
 function pickRandomTag() {
