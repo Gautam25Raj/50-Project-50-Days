@@ -13,6 +13,7 @@ This Repository contains small project which are used in almost every websites u
 | 7             | KeyCode               | [Click me](https://gautam25raj.github.io/50-Project-50-Days/KeyCode/)                  |
 | 8             | Navigation Rotation   | [Click me](https://gautam25raj.github.io/50-Project-50-Days/NavigationRotation/)       |
 | 9             | Question Box          | [Click me](https://gautam25raj.github.io/50-Project-50-Days/QuesBox/)                  |
+| 10            | Random Choice Picker  | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Random%20Choice%20Picker)  |
 | 10            | Scroll Animation      | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Scroll%20Animation)        |
 | 11            | Sound Board           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/SoundBoard)                |
 | 12            | Loading               | [Click me](https://gautam25raj.github.io/50-Project-50-Days/loading)                   |
