@@ -14,8 +14,8 @@ This Repository contains small project which are used in almost every websites u
 | 8             | Navigation Rotation   | [Click me](https://gautam25raj.github.io/50-Project-50-Days/NavigationRotation/)       |
 | 9             | Question Box          | [Click me](https://gautam25raj.github.io/50-Project-50-Days/QuesBox/)                  |
 | 10            | Random Choice Picker  | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Random%20Choice%20Picker)  |
-| 10            | Scroll Animation      | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Scroll%20Animation)        |
-| 11            | Sound Board           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/SoundBoard)                |
-| 12            | Loading               | [Click me](https://gautam25raj.github.io/50-Project-50-Days/loading)                   |
-| 13            | Split Landing Page    | [Click me](https://gautam25raj.github.io/50-Project-50-Days/split%20landing%20page)    |
-| 14            | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/)                          |
+| 11            | Scroll Animation      | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Scroll%20Animation)        |
+| 12            | Sound Board           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/SoundBoard)                |
+| 13            | Loading               | [Click me](https://gautam25raj.github.io/50-Project-50-Days/loading)                   |
+| 14            | Split Landing Page    | [Click me](https://gautam25raj.github.io/50-Project-50-Days/split%20landing%20page)    |
+| 15            | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/)                          |
