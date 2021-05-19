@@ -5,10 +5,11 @@ This Repository contains small project which are used in almost every websites u
 | Projects      |Name                   | Links                                                                                  |
 | ------------- |:-------------:        | -----:                                                                                 |
 | 1             | Animated Navigation   | [Click me](https://gautam25raj.github.io/50-Project-50-Days/AnimatedNav/)              |
-| 16            | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Background%20Slider)                          |
-| 2             | Card Expansion        | [Click me](https://gautam25raj.github.io/50-Project-50-Days/CardExpansion/)            |
-| 3             | Choice Picker         | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Choice%20Picker/)          |
-| 4             | Dad Jokes             | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Dad%20Jokes)               |
+| 2             | Background Slider     | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Background%20Slider)       |
+| 3             | Card Expansion        | [Click me](https://gautam25raj.github.io/50-Project-50-Days/CardExpansion/)            |
+| 4             | Choice Picker         | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Choice%20Picker/)          |
+| 5             | Dad Jokes             | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Dad%20Jokes)               |
+| 6             | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Drink%20Water)             |
 | 5             | Form Wave             | [Click me](https://gautam25raj.github.io/50-Project-50-Days/FormWave)                  |
 | 6             | Form Progress Steps   | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Forms%20Progress%20Steps)  |
 | 7             | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Increment%20Counter)       |
@@ -20,5 +21,4 @@ This Repository contains small project which are used in almost every websites u
 | 13            | Sound Board           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/SoundBoard)                |
 | 14            | Loading               | [Click me](https://gautam25raj.github.io/50-Project-50-Days/loading)                   |
 | 15            | Split Landing Page    | [Click me](https://gautam25raj.github.io/50-Project-50-Days/split%20landing%20page)    |
-
 | 18            | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/)                          |
