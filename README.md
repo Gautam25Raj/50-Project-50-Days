@@ -5,6 +5,7 @@ This Repository contains small project which are used in almost every websites u
 | Projects      |Name                   | Links                                                                                  |
 | ------------- |:-------------:        | -----:                                                                                 |
 | 1             | Animated Navigation   | [Click me](https://gautam25raj.github.io/50-Project-50-Days/AnimatedNav/)              |
+| 16            | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Background%20Slider)                          |
 | 2             | Card Expansion        | [Click me](https://gautam25raj.github.io/50-Project-50-Days/CardExpansion/)            |
 | 3             | Choice Picker         | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Choice%20Picker/)          |
 | 4             | Dad Jokes             | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Dad%20Jokes)               |
@@ -19,4 +20,5 @@ This Repository contains small project which are used in almost every websites u
 | 13            | Sound Board           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/SoundBoard)                |
 | 14            | Loading               | [Click me](https://gautam25raj.github.io/50-Project-50-Days/loading)                   |
 | 15            | Split Landing Page    | [Click me](https://gautam25raj.github.io/50-Project-50-Days/split%20landing%20page)    |
-| 16            | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/)                          |
+
+| 18            | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/)                          |
