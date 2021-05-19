@@ -9,10 +9,10 @@ This Repository contains small project which are used in almost every websites u
 | 3             | Card Expansion        | [Click me](https://gautam25raj.github.io/50-Project-50-Days/CardExpansion/)            |
 | 4             | Choice Picker         | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Choice%20Picker/)          |
 | 5             | Dad Jokes             | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Dad%20Jokes)               |
-| 6             | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Drink%20Water)             |
+| 6             | Drink Water           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Drink%20Water)             |
 | 7             | Form Wave             | [Click me](https://gautam25raj.github.io/50-Project-50-Days/FormWave)                  |
 | 8             | Form Progress Steps   | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Forms%20Progress%20Steps)  |
-| 9             | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Increment%20Counter)       |
+| 9             | Increment Counter     | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Increment%20Counter)       |
 | 10            | KeyCode               | [Click me](https://gautam25raj.github.io/50-Project-50-Days/KeyCode/)                  |
 | 11            | Navigation Rotation   | [Click me](https://gautam25raj.github.io/50-Project-50-Days/NavigationRotation/)       |
 | 12            | Question Box          | [Click me](https://gautam25raj.github.io/50-Project-50-Days/QuesBox/)                  |
