@@ -8,6 +8,7 @@ This Repository contains small project which are used in almost every websites u
 | 2             | Background Slider     | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Background%20Slider)       |
 | 3             | Card Expansion        | [Click me](https://gautam25raj.github.io/50-Project-50-Days/CardExpansion/)            |
 | 4             | Choice Picker         | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Choice%20Picker/)          |
+| 4             | Clock                 | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Clock)                     |
 | 5             | Dad Jokes             | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Dad%20Jokes)               |
 | 6             | Drink Water           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/Drink%20Water)             |
 | 7             | Form Wave             | [Click me](https://gautam25raj.github.io/50-Project-50-Days/FormWave)                  |
