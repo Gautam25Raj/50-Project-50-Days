@@ -1,94 +1,26 @@
-const hourEl = document.querySelector(".hour");
-const minuteEl = document.querySelector(".minute");
-const secondEl = document.querySelector(".second");
-const timeEl = document.querySelector(".time");
-const dateEl = document.querySelector(".date");
-const toggle = document.querySelector(".toggle");
+const header = document.getElementById("header");
+const title = document.getElementById("title");
+const excerpt = document.getElementById("excerpt");
+const profile_img = document.getElementById("profile_img");
+const name = document.getElementById("name");
+const date = document.getElementById("date");
 
-const days = [
-  "Sunday",
-  "Monday",
-  "Tuesday",
-  "Wednesday",
-  "Thursday",
-  "Friday",
-  "Saturday",
-];
+const animated_bgs = document.querySelectorAll(".animated-bg");
+const animated_bg_texts = document.querySelectorAll(".animated-bg-text");
 
-const months = [
-  "Jan",
-  "Feb",
-  "Mar",
-  "Apr",
-  "May",
-  "Jun",
-  "Jul",
-  "Aug",
-  "Sep",
-  "Oct",
-  "Nov",
-  "Dec",
-];
+setTimeout(getData, 2500);
 
-toggle.addEventListener("click", (e) => {
-  const html = document.querySelector("html");
-  //   html.classList.toggle("dark");
+function getData() {
+  header.innerHTML =
+    '<img src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80" alt="" />';
+  title.innerHTML = "Lorem ipsum dolor sit amet";
+  excerpt.innerHTML =
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore perferendis";
+  profile_img.innerHTML =
+    '<img src="https://randomuser.me/api/portraits/men/45.jpg" alt="" />';
+  name.innerHTML = "John Doe";
+  date.innerHTML = "Oct 08, 2020";
 
-  if (html.classList.contains("dark")) {
-    e.target.innerHTML = "Darl Mode";
-    html.classList.remove("dark");
-  } else {
-    html.classList.add("dark");
-    e.target.innerHTML = "Light Mode";
-    html.classList.add("dark");
-  }
-});
-
-function setTime() {
-  const time = new Date();
-  const month = time.getMonth();
-  const day = time.getDay();
-  const date = time.getDate();
-  const hours = time.getHours();
-  const hoursForClock = hours >= 13 ? hours % 12 : hours;
-  const minutes = time.getMinutes();
-  const seconds = time.getSeconds();
-  const ampm = hours >= 12 ? "PM" : "AM";
-
-  hourEl.style.transform = `translate(-50%, -100%) rotate(${scale(
-    hoursForClock,
-    0,
-    12,
-    0,
-    360
-  )}deg)`;
-
-  minuteEl.style.transform = `translate(-50%, -100%) rotate(${scale(
-    minutes,
-    0,
-    60,
-    0,
-    360
-  )}deg)`;
-
-  secondEl.style.transform = `translate(-50%, -100%) rotate(${scale(
-    seconds,
-    0,
-    60,
-    0,
-    360
-  )}deg)`;
-
-  timeEl.innerHTML = `${hoursForClock}:${
-    minutes < 10 ? `0${minutes}` : minutes
-  } ${ampm}`;
-
-  dateEl.innerHTML = `${days[day]} , ${months[month]} <span class="circle">${date}</span>`;
+  animated_bgs.forEach((bg) => bg.classList.remove("animated-bg"));
+  animated_bg_texts.forEach((bg) => bg.classList.remove("animated-bg-text"));
 }
-
-const scale = (num, in_min, in_max, out_min, out_max) => {
-  return ((num - in_min) * (out_max - out_min)) / (in_max - in_min) + out_min;
-};
-setTime();
-
-setInterval(setTime, 1000);
