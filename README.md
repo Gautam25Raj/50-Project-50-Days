@@ -24,3 +24,21 @@ This Repository contains small project which are used in almost every websites u
 | 18            | Loading               | [Click me](https://gautam25raj.github.io/50-Project-50-Days/loading)                   |
 | 19            | Split Landing Page    | [Click me](https://gautam25raj.github.io/50-Project-50-Days/split%20landing%20page)    |
 | 20            | Coming Soon           | [Click me](https://gautam25raj.github.io/50-Project-50-Days/)                          |
+
+# New Table Layout
+<table>
+<tr><th> Project  1 - 25 </th><th> Project  25 - 50 </th></tr>
+<tr><td>
+
+|Project    | Name              | Links                                                                     |
+|-------    | -----             | -----                                                                     |
+|1          | Coming Soon       | [Click me](https://gautam25raj.github.io/50-Project-50-Days/)             |
+
+</td><td>
+
+
+|Project    | Name              | Links                                                                     |
+|-------    | -----             | -----                                                                     |
+|25         | Coming Soon       | [Click me](https://gautam25raj.github.io/50-Project-50-Days/)             |
+
+</td></tr> </table>
