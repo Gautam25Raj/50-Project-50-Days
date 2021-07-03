@@ -10,22 +10,49 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="style.css" />
-    <title>Animated Navigaation</title>
+    <title>Github Profiles</title>
   </head>
   <body>
-    <nav class="active" id="nav">
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Works</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Conatct</a></li>
-      </ul>
+    <form class="user-form" id="form">
+      <input type="text" id="search" placeholder="Search a Github User" />
+    </form>
 
-      <button class="icon" id="toggle">
-        <div class="line line1"></div>
-        <div class="line line2"></div>
-      </button>
-    </nav>
+    <main id="main">
+      <div class="card">
+        <div>
+          <img src="" alt="Github Users Photo" class="avatar" />
+        </div>
+
+        <div class="user-info">
+          <h2>John Dee</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam
+            unde repellendus eos quae voluptate. Ex ipsa ab maxime laborum odio.
+          </p>
+
+          <ul>
+            <li>
+              300
+              <strong>Followers</strong>
+            </li>
+            <li>
+              100
+              <strong>Following</strong>
+            </li>
+            <li>
+              30
+              <strong>Repos</strong>
+            </li>
+          </ul>
+
+          <div id="repos">
+            <a href="#" class="repos">Repo 1</a>
+            <a href="#" class="repos">Repo 1</a>
+            <a href="#" class="repos">Repo 1</a>
+          </div>
+        </div>
+      </div>
+    </main>
     <script src="script.js"></script>
   </body>
 </html>

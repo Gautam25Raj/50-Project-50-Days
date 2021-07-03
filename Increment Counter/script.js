@@ -1,7 +1,5 @@
 const counters = document.querySelectorAll(".counter");
-console.log(1);
 counters.forEach((counter) => {
-  console.log(1);
   counter.innerText = "0";
 
   const updateCounter = () => {
