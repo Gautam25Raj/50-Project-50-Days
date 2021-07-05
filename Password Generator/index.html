@@ -10,22 +10,54 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="style.css" />
-    <title>Animated Navigaation</title>
+    <title>Password Generator</title>
   </head>
   <body>
-    <nav class="active" id="nav">
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Works</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Conatct</a></li>
-      </ul>
+    <div>
+      <h2>Password Generator</h2>
 
-      <button class="icon" id="toggle">
-        <div class="line line1"></div>
-        <div class="line line2"></div>
-      </button>
-    </nav>
+      <div class="result-container">
+        <span class="result">
+
+        </span>
+
+        <button class="btn" id="clipboard">
+          <i class="far fa-clipboard"></i>
+        </button>
+      </div>
+
+      <div class="settings">
+        <div class="setting">
+          <label for="">Password Lenght</label>
+          <input type="number" id="lenght" min="4" max="20" value="8">
+        </div>
+
+        <div class="setting">
+          <label for="">Include uppercase letter</label>
+          <input type="checkbox" id="uppercase" checked>
+        </div>
+
+        <div class="setting">
+          <label for="">Include lowercase letter</label>
+          <input type="checkbox" id="lowercase" checked>
+        </div>
+
+        <div class="setting">
+          <label for="">Include numbers</label>
+          <input type="checkbox" id="numbers" checked>
+        </div>
+
+        <div class="setting">
+          <label for="">Include symbols</label>
+          <input type="checkbox" id="symbols" checked>
+        </div>
+
+        <button class="btn btn-large" id="generate">
+          Generate Password
+        </button>
+      </div>
+    </div>
+
     <script src="script.js"></script>
   </body>
 </html>
